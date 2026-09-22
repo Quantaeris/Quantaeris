@@ -3,11 +3,11 @@
 </p>
 
 <h2 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=7DD3FC&center=true&vCenter=true&width=520&lines=Quantum+Machine+Learning;Quantum+Algorithms;Hybrid+Quantum-Classical+Systems" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=7DD3FC&center=true&vCenter=true&width=700&lines=Quantum+Machine+Learning;Quantum+Algorithms;Hybrid+Quantum+Systems" alt="typing" />
 </h2>
 
 <p align="center">
-  Exploring <b>Quantum Machine Learning</b>, <b>quantum algorithms</b>, and <b>hybrid quantum–classical</b> systems — from research ideas to working software.
+  Exploring <b>Quantum Machine Learning</b>, <b>quantum algorithms</b>, and <b>hybrid quantum-classical</b> systems — from research ideas to working software.
 </p>
 
 ---
